@@ -1,0 +1,11 @@
+
+{
+  "homepage": "https://github.com/northwesttrees-gaming/Advanced-AI-Attributes",
+  "1.18.2": {
+    "1.0.0": "Added support for attribute commands"
+  },
+  "promos": {
+    "1.18.2-latest": "1.0.0",
+    "1.18.2-recommended": "1.0.0"
+  }
+}
