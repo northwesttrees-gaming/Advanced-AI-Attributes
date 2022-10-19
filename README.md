@@ -13,4 +13,4 @@ Mods that use this API mod should state on their mod pages that the mod requires
 
 | Minecraft Build | API Build | Client Download | Development Download |
 | --- | --- | --- | --- |
-| 1.18.2 | 1.0.0 | [Client v1.0.0]() | [Development v1.0.0]() |
+| 1.18.2 | 1.0.0 | [Client v1.0.0](https://github.com/northwesttrees-gaming/Advanced-AI-Attributes/files/9824518/AdvancedAI_Attributes_API_Client.zip) | [Development v1.0.0](https://github.com/northwesttrees-gaming/Advanced-AI-Attributes/files/9824523/AdvancedAI_Attributes_API_Deobfuscated.zip) |
