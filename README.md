@@ -3,11 +3,14 @@
 # About AAI Attributes
 This modification shortens the Minecraft attribute command for MCreator development and allows clients to use an API mod for their mods.
 
+## Notes
+Mods that use this API mod should state on their mod pages that the mod requires the client version and the API build they must used for your mod to work.
+
 ## Downloads
 > What version do I need?
-* Development is for mod creators. See [this wiki page]() for more information.
+* Development is for mod creators. See [this wiki page](https://github.com/northwesttrees-gaming/Advanced-AI-Attributes/wiki/Using-AAI-Attributes-with-MCreator) for more information.
 * Client is for general use for Minecraft modding.
 
-| Minecraft Build | Client Download | Development Download |
-| --- | --- | --- |
-| 1.18.2 | [Client v1.0.0]() | [Development v1.0.0]() |
+| Minecraft Build | API Build | Client Download | Development Download |
+| --- | --- | --- | --- |
+| 1.18.2 | 1.0.0 | [Client v1.0.0]() | [Development v1.0.0]() |
